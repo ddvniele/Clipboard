@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct ClipboardApp: App {
+    
+    // body
     var body: some Scene {
         WindowGroup {
-            ContentView()
-        }
-    }
-}
+            MainView()
+        } // WINDOW GROUP
+    } // VAR BODY
+} // STRUCT CLIPBOARD APP
