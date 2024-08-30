@@ -1,6 +1,6 @@
 <div align="center"><img width="125" alt="Clipboard Icon" src="https://github.com/user-attachments/assets/3d252759-2757-46d3-90be-0bd1610148b2"></div>
 
-# Clipboard: a new place to organise copy & paste for your iPhone
+<div align="center"><h1>Clipboard: a new place to organise copy & paste for your iPhone</h1></div>
 Clipboard is a complete copy & paste tool that features easy items management and full integration with the Shortcuts app in order to automate storing and retrieving processes.
 
 # ⏱️ Next planned release
