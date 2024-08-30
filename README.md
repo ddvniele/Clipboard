@@ -1,4 +1,4 @@
-<div align="center"><img width="125" alt="Clipboard Icon" src="https://github.com/user-attachments/assets/64aff061-9532-41f2-b5d1-8afa93bfaafa"></div>
+<div align="center"><img width="125" alt="Clipboard Icon" src="https://github.com/user-attachments/assets/3d252759-2757-46d3-90be-0bd1610148b2"></div>
 
 # Clipboard: a new place to organise copy & paste for your iPhone
 Clipboard is a complete copy & paste tool that features easy items management and full integration with the Shortcuts app in order to automate storing and retrieving processes.
@@ -7,10 +7,10 @@ Clipboard is a complete copy & paste tool that features easy items management an
 there are no planned releases for now
 
 ## Screenshots
-<img width="175" alt="Clipboard" src="https://github.com/user-attachments/assets/c5c9aefd-bd6d-432d-850c-7a7d95227116">
-<img width="175" alt="Clipboard Home Screen" src="https://github.com/user-attachments/assets/34a14769-7531-4889-a237-806b64571c3c">
-<img width="175" alt="Clipboard Items Management" src="https://github.com/user-attachments/assets/ad040710-b828-4508-abb9-ef5c0565f9a6">
-<img width="175" alt="Clipboard Settings" src="https://github.com/user-attachments/assets/74fd3c2a-093f-493c-be74-ccba5a5e4261">
+<img width="175" alt="Clipboard" src="https://github.com/user-attachments/assets/c7ffd072-fe70-4bca-89a2-0e8abbcf3e38">
+<img width="175" alt="Clipboard Home Screen" src="https://github.com/user-attachments/assets/c21394a3-672f-4885-ba6c-6b065257837a">
+<img width="175" alt="Clipboard Items Management" src="https://github.com/user-attachments/assets/ca5ea175-2bf2-4f6f-90e3-42e664ad56a1">
+<img width="175" alt="Clipboard Settings" src="https://github.com/user-attachments/assets/f7b91c6a-a0ef-420b-9179-db257baa19fd">
 
 ## Download, install & usage
 - you can install the latest version of Clipboard with AltStore/SideStore adding this repo: https://tinyurl.com/dansaltsource
@@ -26,8 +26,8 @@ there are no planned releases for now
   - discover more reading below!
 
 ## 📂 Shortcuts app integration
-<img width="175" alt="Spotlight View" src="https://github.com/user-attachments/assets/1aecda33-eb67-4453-baea-0de22a9d54ba">
-<img width="175" alt="Shortcuts View" src="https://github.com/user-attachments/assets/0be177f0-6816-4393-bff8-84429b9997fe">
+<img width="175" alt="Spotlight View" src="https://github.com/user-attachments/assets/ee9f02a8-c7d6-4203-8da0-a3a10056e38c">
+<img width="175" alt="Shortcuts View" src="https://github.com/user-attachments/assets/4877dc50-148c-4c62-b771-ae199a588de6">
 
 it's really easy to integrate the Clipboard app with Shortcuts. you can:
 - do quick actions such as pasting to Clipboard directly from the Spotlight menu or by asking to Siri
