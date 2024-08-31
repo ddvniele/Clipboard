@@ -13,7 +13,7 @@ there are no planned releases for now
 <img width="175" alt="Clipboard Settings" src="https://github.com/user-attachments/assets/f7b91c6a-a0ef-420b-9179-db257baa19fd">
 
 ## Download, install & usage
-- you can install the latest version of Clipboard with AltStore/SideStore adding through <code>📂 <a href="https://ddvniele.github.io/altsource">Dan's Source</a></code>
+- you can install the latest version of Clipboard with AltStore/SideStore through <code>📂 <a href="https://ddvniele.github.io/altsource">Dan's Source</a></code>
 - you can download the latest version of Clipboard on the [releases page](https://github.com/ddvniele/Clipboard/releases/latest)
 - you can download a ZIP of the source files and modify what you'd like to with Xcode
 - you can fork this repo with your updated code or suggest changes [here](https://github.com/ddvniele/Clipboard/pulls)
